@@ -1,2 +1,1 @@
-yo yo
-bye
+yo
